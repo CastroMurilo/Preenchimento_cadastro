@@ -1,0 +1,113 @@
+1721856192037	geckodriver	INFO	Listening on 127.0.0.1:52861
+1721856195057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileIstkD2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721856195475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721856196053	Marionette	INFO	Listening on port 52874
+Read port: 52874
+1721856196219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+1721856225490	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721856464582	Marionette	INFO	Stopped listening on port 52874
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721856432525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721856432702	Marionette	INFO	Listening on port 53078
+Read port: 53078
+1721856432838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+1721856462547	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721856484697	Marionette	INFO	Stopped listening on port 53078
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1721856718365	geckodriver	INFO	Listening on 127.0.0.1:53305
+1721856721419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilekDY5fE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721856721737	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721856722195	Marionette	INFO	Listening on port 53316
+Read port: 53316
+1721856722338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+1721856751751	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721856757869	Marionette	INFO	Stopped listening on port 53316
+Dynamically enable window occlusion 1
+1721856851721	geckodriver	INFO	Listening on 127.0.0.1:53427
+1721856854761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileDOgb9n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721856855065	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721856855475	Marionette	INFO	Listening on port 53439
+Read port: 53439
+1721856855587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+1721856885078	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721856890769	Marionette	INFO	Stopped listening on port 53439
+Dynamically enable window occlusion 1
+1721930967375	geckodriver	INFO	Listening on 127.0.0.1:52319
+1721930970418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileKtQVNd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721930971385	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721930971940	Marionette	INFO	Listening on port 52329
+Read port: 52329
+1721930972088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: BackupService: "Failed to measure for resource: miscellaneous" (new NotFoundError("Could not stat `C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileKtQVNd\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-journal': file does not exist (NS_ERROR_FILE_NOT_FOUND)", (void 0)))
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+1721931001403	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721931008225	Marionette	INFO	Stopped listening on port 52329
+Dynamically enable window occlusion 1
+1721931025084	geckodriver	INFO	Listening on 127.0.0.1:52386
+1721931028112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilebtd4IP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721931028418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721931028812	Marionette	INFO	Listening on port 52396
+Read port: 52396
+1721931028935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+1721931058431	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721931065139	Marionette	INFO	Stopped listening on port 52396
+Dynamically enable window occlusion 1
+1721932149757	geckodriver	INFO	Listening on 127.0.0.1:52778
+1721932152836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileahR3pB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721932153169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721932153573	Marionette	INFO	Listening on port 52789
+Read port: 52789
+1721932153690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://contabilidade-devaprender.netlify.app."
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
