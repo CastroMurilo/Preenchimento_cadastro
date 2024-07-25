@@ -38,5 +38,5 @@ Prepare o Arquivo Excel: Crie um arquivo Excel (empresas.xlsx) com as seguintes 
 -Quantidade de Funcionários
 -Data de Fundação
 ```bash
-Execute o Script: Execute o script preenchedor_cadastro.py
+Execute o Script: Execute o script  bot.py
 ```
