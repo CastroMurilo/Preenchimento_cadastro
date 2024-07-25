@@ -17,12 +17,12 @@ pip install botcity-web webdriver-manager pandas openpyxl
 ```
 
 ## Funcionamento
--Inicialização: O script inicia uma instância do navegador Firefox usando o WebBot da BotCity.
--Acesso ao Site: Acessa o site de contabilidade especificado e maximiza a janela do navegador.
--Login: Preenche os campos de email e senha e realiza o login.
--Leitura do Arquivo Excel: Lê os dados do arquivo Excel fornecido.
--Preenchimento do Formulário: Preenche o formulário no site com as informações extraídas do arquivo Excel.
--Finalização: Para o navegador após o preenchimento do formulário.
+- `Inicialização`: O script inicia uma instância do navegador Firefox usando o WebBot da BotCity.
+- `Acesso ao Site`: Acessa o site de contabilidade especificado e maximiza a janela do navegador.
+- `Login`: Preenche os campos de email e senha e realiza o login.
+- `Leitura do Arquivo Excel`: Lê os dados do arquivo Excel fornecido.
+- `Preenchimento do Formulário`: Preenche o formulário no site com as informações extraídas do arquivo Excel.
+- `Finalização`: Para o navegador após o preenchimento do formulário.
 
 ##Uso:
 Para utilizar o script, siga as etapas abaixo:
