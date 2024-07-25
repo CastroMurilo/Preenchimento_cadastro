@@ -29,14 +29,14 @@ Para utilizar o script, siga as etapas abaixo:
 
 Prepare o Arquivo Excel: Crie um arquivo Excel (empresas.xlsx) com as seguintes colunas:
 
--Nome da Empresa
--Email
--Telefone
--Endereço
--CNPJ
--Área de Atuação
--Quantidade de Funcionários
--Data de Fundação
+- `Nome da Empresa`
+- `Email`
+- `Telefone`
+- `Endereço`
+- `CNPJ`
+- `Área de Atuação`
+- `Quantidade de Funcionários`
+- `Data de Fundação`
 
 ## Acessar a pasta: 
 ```bash
