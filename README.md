@@ -40,5 +40,5 @@ Prepare o Arquivo Excel: Crie um arquivo Excel (empresas.xlsx) com as seguintes 
 
 ### Execute o Script: Execute o script:
 ```bash
-pyhon bot.py
+python bot.py
 ```
