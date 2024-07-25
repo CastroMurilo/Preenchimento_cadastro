@@ -38,7 +38,7 @@ Prepare o Arquivo Excel: Crie um arquivo Excel (empresas.xlsx) com as seguintes 
 -Quantidade de Funcionários
 -Data de Fundação
 
-# Execute o Script: Execute o script:
+### Execute o Script: Execute o script:
 ```bash
 pyhon bot.py
 ```
