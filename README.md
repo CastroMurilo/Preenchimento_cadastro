@@ -12,8 +12,8 @@ Este projeto utiliza a biblioteca BotCity para preencher um formulário de cadas
 
 Você pode instalar as dependências necessárias com o seguinte comando:
 
-```bash
-pip install botcity-web webdriver-manager pandas openpyxl
+
+```bash pip install botcity-web webdriver-manager pandas openpyxl
 
 ## Funcionamento
 -Inicialização: O script inicia uma instância do navegador Firefox usando o WebBot da BotCity.
